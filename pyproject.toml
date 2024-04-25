@@ -1,0 +1,7 @@
+[project]
+name = 'firstsearch'
+version = '0.1.0'
+dependencies = ['numpy', 'pandas', 'matplotlib', 'scikit-learn', 'cir_model', 'weightedstats']
+
+[build-system]
+requires = ['setuptools']
